@@ -1,0 +1,8 @@
+INVOICE
+From: Hooli Supplies
+Invoice No: HS-77
+PO Number: PO-9001
+Date: 2026-10-03
+Currency: INR
+Total: 2,100.00
+Items: Office chairs x 3

@@ -1,0 +1,8 @@
+INVOICE
+From: Acme Paper Co
+Invoice No: AC-1042
+PO Number: PO-5001
+Date: 2026-10-01
+Currency: INR
+Total: 1,200.00
+Items: A4 paper reams x 60

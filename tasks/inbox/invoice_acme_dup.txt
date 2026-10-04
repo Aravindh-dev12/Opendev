@@ -1,0 +1,8 @@
+INVOICE (second copy)
+From: Acme Paper Co
+Invoice No: AP-7781
+PO Number: PO-5004
+Date: 2026-09-20
+Currency: INR
+Total: 640.00
+Items: Envelopes x 2000

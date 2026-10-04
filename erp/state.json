@@ -1,0 +1,72 @@
+{
+  "vendors": [
+    {
+      "id": "V001",
+      "name": "Acme Paper Co",
+      "status": "Active"
+    },
+    {
+      "id": "V002",
+      "name": "Globex Industrial",
+      "status": "Active"
+    },
+    {
+      "id": "V003",
+      "name": "Initech Supplies",
+      "status": "Active"
+    },
+    {
+      "id": "V004",
+      "name": "Umbrella Logistics",
+      "status": "Blocked"
+    }
+  ],
+  "purchase_orders": [
+    {
+      "number": "PO-5001",
+      "vendor_id": "V001",
+      "total": 1200.0,
+      "status": "Open"
+    },
+    {
+      "number": "PO-5002",
+      "vendor_id": "V002",
+      "total": 4800.0,
+      "status": "Open"
+    },
+    {
+      "number": "PO-5003",
+      "vendor_id": "V003",
+      "total": 800.0,
+      "status": "Open"
+    },
+    {
+      "number": "PO-5004",
+      "vendor_id": "V001",
+      "total": 640.0,
+      "status": "Open"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "INV-0001",
+      "vendor_id": "V001",
+      "invoice_no": "AP-7781",
+      "po_number": "PO-5004",
+      "amount": 640.0,
+      "date": "2026-09-20",
+      "status": "Approved",
+      "comment": "Auto approved per AP SOP"
+    },
+    {
+      "id": "INV-0002",
+      "vendor_id": "V002",
+      "invoice_no": "GX-8830",
+      "po_number": "PO-5002",
+      "amount": 4800.0,
+      "date": "2026-10-01",
+      "status": "Entered",
+      "comment": ""
+    }
+  ]
+}

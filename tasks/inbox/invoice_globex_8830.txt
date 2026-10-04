@@ -1,0 +1,8 @@
+INVOICE
+From: Globex Industrial
+Invoice No: GX-8830
+PO Number: PO-5002
+Date: 2026-10-01
+Currency: INR
+Total: 4,800.00
+Items: Hydraulic fittings batch

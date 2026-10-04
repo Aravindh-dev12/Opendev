@@ -1,0 +1,7 @@
+INVOICE
+From: Umbrella Logistics
+Invoice No: UL-5
+Date: 2026-10-03
+Currency: INR
+Total: 3,300.00
+Items: Freight charges

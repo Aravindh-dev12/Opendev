@@ -1,0 +1,8 @@
+INVOICE
+From: Initech Supplies
+Invoice No: IN-311
+PO Number: PO-5003
+Date: 2026-10-02
+Currency: INR
+Total: 980.00
+Items: Toner cartridges x 14
